@@ -1,4 +1,4 @@
-//Find the sum of digits of a given number
+//Que3: Find the sum of digits of a given number
 
 import java.util.Scanner;
 
@@ -22,7 +22,6 @@ public class P3_DifferentMethod {
 
 		while (num > 0) {
 			int rem = num % 10;
-			System.out.println("Remainder  is : " + rem);
 			add = add + rem;
 			num = num / 10;
 			System.out.println("New number  is : " + num);

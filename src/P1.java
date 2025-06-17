@@ -1,4 +1,4 @@
-// Write a program to print a multiplication table for a given number.
+// Que1:Write a program to print a multiplication table for a given number.
 
 import java.util.Scanner;
 
